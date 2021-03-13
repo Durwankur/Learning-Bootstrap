@@ -1,0 +1,57 @@
+
+
+.fonts{
+	font-size:30px;
+	
+}
+
+.carousel-item img{
+	height:500px;
+	
+	
+}
+
+.carousel-caption p{
+	font-size:20px;
+}
+
+.margin{
+	margin-top:30px;
+	margin-bottom:30px;
+}
+.round{
+	
+	border-radius:50%;
+	height:200px;
+	width:200px;
+}
+
+.service{
+	border-radius:30%;
+	height:200px;
+	width:200px;
+}
+
+.ser-font{
+	font-size:100px;
+}
+
+.down{
+	margin-bottom:100px;
+	
+}
+
+.font1{
+	font-size:30px;
+	margin-top:25px;
+	margin-right:10px;
+}
+
+.left{
+	margin-left:50px;
+	
+}
+
+.map{
+	margin-top:50px;
+}
